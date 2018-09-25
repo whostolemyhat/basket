@@ -1,0 +1,13 @@
+.basket {
+    margin: 1rem auto;
+    padding: 1rem;
+    max-width: 400px;
+    border: 1px solid grey;
+    border-radius: 3px;
+}
+
+.basket__offer {
+    padding: 0.5rem;
+    margin: 0.5rem auto;
+    background: aliceblue;
+}
